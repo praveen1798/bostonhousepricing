@@ -3,6 +3,4 @@ sklearn
 pandas
 numpy
 matplotlib
-Flask
-json
-seaborn
+gunicorn
